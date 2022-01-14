@@ -1,11 +1,3 @@
-<p align="center">
-  <img src="assets/logo.jpg" alt="Eva Maria Logo">
-</p>
-<h1 align="center">
-  <b>ᗩᒍᗩ᙭ Iᗰᗪᗷ ᗷOT ᐯ3</b>
-</h1>
-
-
 ## Features
 
 - [x] Auto Filter
@@ -87,9 +79,3 @@ python3 bot.py
 • /ban  - to ban a user.
 • /unban  - to unban a user.
 • /channel - to get list of total connected channels
-• /broadcast - to broadcast a message to all Eva Maria users
-```
-
-𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [𝐀𝐚𝐝𝐡𝐢](https://t.me/BKC0001)                                                                                                                                        
-𝙶𝚁𝙾𝚄𝙿 ›› [𝐌𝐨𝐯𝐢𝐞𝐬 𝐖𝐨𝐫𝐥𝐝](https://t.me/MoviesWorld_Group)                                             
-𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [𝐌𝐖 𝐔𝐩𝐝𝐚𝐭𝐞𝐬](https://t.me/Minnal_Murali2021HD)
