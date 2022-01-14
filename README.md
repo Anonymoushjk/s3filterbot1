@@ -44,7 +44,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Aadhi000/KmS-MovieS">
+<a href="https://heroku.com/deploy?template=https://github.com/Aadhi000/s3movieshd3">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
